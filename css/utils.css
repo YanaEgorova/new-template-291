@@ -23,6 +23,7 @@ body {
 }
 body {
   position: relative;
+  background-color: var(--third-brand-color);
 }
 
 h1,
